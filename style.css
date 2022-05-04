@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+    width: 100px;
+    height: auto;
+    margin: 0;
+}
+.html{
+    font-size: 3rem;
+    margin: 0;
+} 
+
+.tres-puntos{
+    font-size: 3rem;
+    position: relative;
+    right: -650px;
+}
+
+.libro{
+    position: relative;
+    top: -20px;
+}
+.everything{
+    flex-direction: column;
+    margin: 0%;
+    width: 800px;
+    height: 600px;
+    
+}
+
+.post-header{
+    margin: 0;
+    display: flex;
+}
+
+.instagram-post{
+    margin: 0%;
+    font-size: medium;
+    display: flex;
+}
+
+.photo img{
+    width: 100%;
+    margin: 0%;
+}
+
+.ig icons{
+    font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
